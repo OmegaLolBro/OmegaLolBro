@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img align="left" height="160" width="100%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ElementZeroMaintained&repo=ElementZeroV1">
+<img align="left" height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ElementZeroMaintained&repo=ElementZeroV1">
 
 <img align="left" height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=OmegaLolBro&count_private=true&show_icons=true">
 <img align="left" height="160" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmegaLolBro&layout=compact">
