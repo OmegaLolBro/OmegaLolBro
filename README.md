@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<div style="width:100%"><img align="left" height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ElementZeroMaintained&repo=ElementZeroV1"></div>
+<div style="width:100%"><img align="left" height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ElementZeroMaintained&repo=ElementZeroV1"></div></br>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
