@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Header](https://omegahosting.cf/panel/gallery/dc4e1781f46da573dec94caac9c8d7f5f957eb456e6467086f7ba9157743.png "Header")](https://omegahosting.cf/)
+[![Header](https://omegahosting.cf/img/team/AI32767.gif "Header")](https://omegahosting.cf/)
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
