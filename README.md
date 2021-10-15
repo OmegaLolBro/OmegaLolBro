@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [<img align="left" height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=OmegaLolBro&count_private=true&show_icons=true">][github-repos]
 [<img align="left" height="160" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmegaLolBro&layout=compact">][github-repos]
 
-[elementzero]: ElementZeroMaintained / ElementZeroV1
+[elementzero]: ElementZeroMaintained/ElementZeroV1
 
 [mine9-web]: https://mine9.tk
 [mine9-discord]: https://discord.gg/4vb69B7
