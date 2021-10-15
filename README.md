@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElementZeroMaintained&repo=ElementZeroV1)](https://github.com/OmegaLolBro/OmegaLolbro)
-[![OmegaLolBro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OmegaLolBro)](https://github.com/anuraghazra/github-readme-stats)
-[<img align="left" height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=OmegaLolBro&count_private=true&show_icons=true">][github-repos]
-[<img align="left" height="160" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmegaLolBro&layout=compact">][github-repos]
+[<img align="left" height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ElementZeroMaintained&repo=ElementZeroV1">]
+[<img align="left" height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=OmegaLolBro">]
+[<img align="left" height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=OmegaLolBro&count_private=true&show_icons=true">]
+[<img align="left" height="160" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmegaLolBro&layout=compact">]
