@@ -9,7 +9,7 @@
 - 😄 Pronouns: He, Him etc.
 - ⚡ Fun fact: ...
 
-<div style="width:100%"><img align="left" height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ElementZeroMaintained&repo=ElementZeroV1"></div></br></br></br></br></br></br></br></br></br>
+<div style="width:100%"><img align="left" height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ElementZeroMaintained&repo=ElementZeroV1"></div>
 <div style="width:100%"><img align="left" height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/pin/?username=OmegaLolBro&repo=HTMLSourceProtector"></div></br></br></br></br></br></br></br></br></br>
 
 </br></br></br>
